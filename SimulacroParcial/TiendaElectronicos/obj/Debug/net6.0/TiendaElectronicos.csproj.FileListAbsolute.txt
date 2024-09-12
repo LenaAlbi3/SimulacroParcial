@@ -1,0 +1,14 @@
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\bin\Debug\net6.0\TiendaElectronicos.exe
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\bin\Debug\net6.0\TiendaElectronicos.deps.json
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\bin\Debug\net6.0\TiendaElectronicos.runtimeconfig.json
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\bin\Debug\net6.0\TiendaElectronicos.dll
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\bin\Debug\net6.0\TiendaElectronicos.pdb
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\obj\Debug\net6.0\TiendaElectronicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\obj\Debug\net6.0\TiendaElectronicos.AssemblyInfoInputs.cache
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\obj\Debug\net6.0\TiendaElectronicos.AssemblyInfo.cs
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\obj\Debug\net6.0\TiendaElectronicos.csproj.CoreCompileInputs.cache
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\obj\Debug\net6.0\TiendaElectronicos.dll
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\obj\Debug\net6.0\refint\TiendaElectronicos.dll
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\obj\Debug\net6.0\TiendaElectronicos.pdb
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\obj\Debug\net6.0\TiendaElectronicos.genruntimeconfig.cache
+C:\Users\malbitre\source\repos\SimulacroParcial\TiendaElectronicos\obj\Debug\net6.0\ref\TiendaElectronicos.dll
